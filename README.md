@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😎 I’m currently working on Shopee, ShenZhen China;  
-💬 Feel free to ask me about anything;  
-📫 How to reach me: helkylefighting@gmail.com;  
+😎 &nbsp;&nbsp;I’m currently working on Shopee, ShenZhen China;  
+💬 &nbsp;&nbsp;Feel free to ask me about anything;  
+📫 &nbsp;&nbsp;How to reach me: helkylefighting@gmail.com;  
 
 ![https://github.com/HelKyle](https://github-readme-stats.vercel.app/api?username=helkyle&show_icons=true&theme=dark)
 
