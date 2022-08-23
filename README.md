@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😎 &nbsp;&nbsp;I’m currently working at Tencent, ShenZhen China;  
+😎 &nbsp;&nbsp;I’m currently working at Tencent, ShenZhen;  
 💬 &nbsp;&nbsp;Feel free to ask me about anything;  
 📫 &nbsp;&nbsp;How to reach me: helkylefighting@gmail.com;  
 
