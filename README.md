@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/HelKyle](https://github-readme-stats.vercel.app/api?username=helkyle&show_icons=true)
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.helkyle)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=github.helkyle)
